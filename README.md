@@ -14,7 +14,9 @@ It includes visuals and summary tables to show trends in:
 
 ## 📁 File(s)
 
-- `job-analysis-dashboard.xlsx`: Contains the full dashboard and raw data.
+- `Project_1_dashboard.xlsx`: Contains the full dashboard.
+- `Project_2_analysis.xlsx`: Contains the full analysis.
+-  `data_jobs_salary_all.xlsx`: Contains the full dashboard and raw data.
 
 ## 📷 Sample View
 
